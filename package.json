@@ -1,0 +1,15 @@
+{
+  "name": "pages_at_scale",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-source-google-sheets": "^0.3.1",
+    "sass-loader": "^8.0.2",
+    "vue-cookie-law": "^1.11.0"
+  }
+}
